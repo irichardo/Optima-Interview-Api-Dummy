@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 12345678,
+      "first_name": "Ana",
+      "last_name": "López Pérez",
+      "age": 25,
+      "city": "Madrid"
+    },
+    {
+      "id": 87654321,
+      "first_name": "Juan",
+      "last_name": "Martínez García",
+      "age": 30,
+      "city": "Barcelona"
+    },
+    {
+      "id": 98765432,
+      "first_name": "María",
+      "last_name": "Fernández González",
+      "age": 40,
+      "city": "Sevilla"
+    },
+    {
+      "id": 10987654,
+      "first_name": "Pedro",
+      "last_name": "Gómez Rodríguez",
+      "age": 22,
+      "city": "Valencia"
+    },
+    {
+      "id": 21098765,
+      "first_name": "Isabel",
+      "last_name": "Díaz Sánchez",
+      "age": 35,
+      "city": "Málaga"
+    },
+    {
+      "id": 32109876,
+      "first_name": "Miguel",
+      "last_name": "Pérez Martínez",
+      "age": 27,
+      "city": "Bilbao"
+    },
+    {
+      "id": 43210987,
+      "first_name": "Laura",
+      "last_name": "García López",
+      "age": 20,
+      "city": "Zaragoza"
+    },
+    {
+      "id": 54321098,
+      "first_name": "Daniel",
+      "last_name": "González Fernández",
+      "age": 32,
+      "city": "Las Palmas"
+    },
+    {
+      "id": 65432109,
+      "first_name": "Cristina",
+      "last_name": "Rodríguez Gómez",
+      "age": 24,
+      "city": "Murcia"
+    },
+    {
+      "id": 76543210,
+      "first_name": "David",
+      "last_name": "Sánchez Díaz",
+      "age": 28,
+      "city": "Palma de Mallorca"
+    },
+    {
+      "id": 72411622,
+      "first_name": "Ricardo",
+      "last_name": "Huallanca Diaz",
+      "age": 25,
+      "city": "Lima"
+    }
+  ]
+}
